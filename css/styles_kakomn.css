@@ -45,7 +45,7 @@ html{
 }
 
 .edu a, .eco a, .sys a, .tou a{
-  font-size: 18px;
+  font-size: 20px;
   font-family: Hiragino Kaku Gothic ProN;
   font-weight: regular;
   color: #494949;
@@ -58,12 +58,6 @@ html{
   border-left: solid 5px #ffaf58;
  font-family: Hiragino Kaku Gothic ProN;
  font-weight: Medium:
-}
-
-.edu img{
-  height: auto;
-  display: inline-block;
-  text-align: center;
 }
 
 .arrow{
@@ -108,6 +102,12 @@ html{
   position: relative;
   padding: 0.6em;
   background: #ffeddb;
+  font-family: Hiragino Kaku Gothic ProN;
+  font-weight: Bold;
+  color: #494949;
+}
+
+.title h3{
   font-family: Hiragino Kaku Gothic ProN;
   font-weight: Bold;
   color: #494949;
